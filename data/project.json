@@ -4803,10 +4803,6 @@
           "tag": "Transcription"
         },
         {
-          "category": "Speaker",
-          "tag": "Speaker 1 (woman)"
-        },
-        {
           "category": "_uncategorized_",
           "tag": "La Estrella de Panamá (Panama newspaper)"
         },
@@ -5105,6 +5101,6 @@
       ]
     },
     "created_at": "2024-10-04T00:19:19.257Z",
-    "updated_at": "2024-10-04T00:51:02.654Z"
+    "updated_at": "2024-10-04T00:51:34.170Z"
   }
 }
